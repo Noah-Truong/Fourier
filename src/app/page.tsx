@@ -36,7 +36,7 @@ export default function Home() {
       <header className="border-b border-slate-800 bg-slate-900/50 backdrop-blur-sm sticky top-0 z-10">
         <div className="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
           <div>
-            <h1 className="text-xl font-bold bg-gradient-to-r from-cyan-400 to-indigo-500 bg-clip-text text-transparent">
+            <h1 className="text-xl font-bold bg-gradient-to-r cyan-400 bg-clip-text text-transparent">
               Fourier Series Visualizer
             </h1>
             <p className="text-sm text-slate-400">
